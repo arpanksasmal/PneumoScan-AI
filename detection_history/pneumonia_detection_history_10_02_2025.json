@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-02-10 01:38:53",
+        "filename": "IM-0043-0001.jpeg",
+        "prediction": "Normal",
+        "confidence": 99.84789490699768
+    },
+    {
+        "timestamp": "2025-02-10 01:39:13",
+        "filename": "IM-0089-0001.jpeg",
+        "prediction": "Normal",
+        "confidence": 99.97333884239197
+    },
+    {
+        "timestamp": "2025-02-10 01:39:26",
+        "filename": "person44_virus_94.jpeg",
+        "prediction": "Pneumonia Detected",
+        "confidence": 99.2506206035614
+    },
+    {
+        "timestamp": "2025-02-10 01:39:34",
+        "filename": "person51_virus_105.jpeg",
+        "prediction": "Pneumonia Detected",
+        "confidence": 99.86863732337952
+    },
+    {
+        "timestamp": "2025-02-10 01:39:51",
+        "filename": "IM-0043-0001.jpeg",
+        "prediction": "Normal",
+        "confidence": 99.84789490699768
+    }
+]
